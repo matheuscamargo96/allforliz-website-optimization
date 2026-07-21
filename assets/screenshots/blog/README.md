@@ -97,3 +97,25 @@ This folder does not include:
 - API keys
 - Webhook URLs
 - Confidential company data
+
+## Blog Page Overview
+
+The screenshots below show the main blog page and the organization of its articles.
+
+The blog includes:
+
+- Service-based content categories
+- Local SEO-focused titles
+- Article summaries
+- Estimated reading time
+- Read More buttons
+- Painting, remodeling and flooring topics
+- Internal navigation to individual articles
+
+### Top Section
+
+![Allforliz blog page top section](blog-page-overview-top.png)
+
+### Article Categories and Content
+
+![Allforliz blog article categories](blog-page-overview-content.png)
