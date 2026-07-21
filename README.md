@@ -21,7 +21,7 @@ The original website was not developed by me. My role was to optimize, restructu
 - n8n workflow integration
 - Get Your Free Estimate form creation
 - Work With Us form creation
-- Customer service chatbot implementation
+- AI-powered bilingual lead chatbot implementation
 
 ## Tools and Technologies
 
@@ -34,6 +34,11 @@ The original website was not developed by me. My role was to optimize, restructu
 - SEO tools
 - Image optimization tools
 - Website content management platform
+- AI-powered bilingual chatbot implementation
+- OpenAI integration
+- Lead information collection through natural conversation
+- English and Portuguese conversation support
+- n8n and Notion workflow integration
 
 ## Project Status
 
