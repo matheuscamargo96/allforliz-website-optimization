@@ -11,37 +11,51 @@ The website includes two main forms:
 - Get Your Free Estimate
 - Work With Us
 
-## Get Your Free Estimate Form
+### Get Your Free Estimate
 
-The Get Your Free Estimate form was created for potential customers interested in painting and remodeling services.
+The screenshots below show the two-step customer estimate request form.
 
-The form collects project-related information such as:
-
-- Customer name
-- Phone number
-- Email address
-- Project location
-- Requested service
-- Project description
-- Preferred timeline
-- Contact preference
-- Additional information
-
-The objective was to collect enough information for the company to understand the customer's needs and begin the estimate process.
-
-## Work With Us Form
-
-The Work With Us form was created for workers, subcontractors and professionals interested in working with Allforliz.
-
-The form collects information such as:
+The form includes:
 
 - Full name
 - Phone number
 - Email address
-- Professional experience
+- Privacy policy agreement
+- Project type selection
+- Project description
+- Project address
+- Budget range
+- Preferred timeline
+- Lead source question
+- File upload option for project photos
+- Contact preference
+- Multi-step navigation
+- Embedded responsive layout
+
+#### Step 1
+
+![Get Your Free Estimate form step 1](get-your-free-estimate-form-step-1.png)
+
+#### Step 2
+
+![Get Your Free Estimate form step 2](get-your-free-estimate-form-step-2.png)
+
+## Work With Us
+
+The screenshot below shows the form created for workers, subcontractors and professionals interested in working with Allforliz.
+
+The form includes:
+
+- Full name
+- Phone number
+- Email address
 - Area of expertise
+- Professional experience
 - Availability
 - Additional information
+- Embedded responsive layout
+
+![Work With Us form](work-with-us-form.png)
 
 ## Elfsight Integration
 
