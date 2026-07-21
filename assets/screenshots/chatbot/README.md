@@ -1,4 +1,4 @@
-# AI Customer Service Chatbot
+# # Allforliz AI Bilingual Lead Chatbot
 
 This folder documents an AI-powered customer service chatbot developed and integrated into the Allforliz website.
 
