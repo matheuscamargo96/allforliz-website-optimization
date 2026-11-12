@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this stage was to create and organize dedicated pages for the main services offered by Allforliz Painting and Renovations.
+The objective of this stage was to create and organize dedicated pages for the main services offered by Allforliz, a remodeling and construction company in Central Florida.
 
 The website already existed, but the service structure needed to be expanded and improved to provide clearer information to visitors, improve navigation and support the local SEO strategy.
 

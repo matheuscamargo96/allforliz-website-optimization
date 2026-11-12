@@ -1,6 +1,6 @@
 # Allforliz Website Optimization
 
-Technical case study of website performance optimization, local SEO, content architecture, lead generation and system integrations for Allforliz Painting and Renovations.
+Technical case study of website performance optimization, local SEO, content architecture, lead generation and system integrations for Allforliz, a remodeling and construction company in Central Florida.
 
 ![Allforliz desktop PageSpeed result](assets/performance/pagespeed-desktop-july-2026.png)
 
@@ -10,7 +10,7 @@ This repository documents the work performed to improve, expand and integrate th
 
 The original website was not developed by me. My role was to optimize, restructure and maintain the website, focusing on performance, search visibility, user experience, lead generation and integration with the company's internal systems.
 
-Allforliz Painting and Renovations is a painting and remodeling company serving Clermont, Orlando and surrounding areas in Central Florida.
+Allforliz is a remodeling and construction company serving Clermont, Orlando and surrounding areas in Central Florida.
 
 ## Main Activities
 
@@ -180,7 +180,19 @@ The repository currently includes:
 - AI chatbot documentation
 - Technical architecture diagrams
 
-Additional evidence and improvements may be added as the website continues to evolve.
+The AI chatbot workflow is still functional, but it is not connected to the website at the moment.
+
+## Next Phase: Rebuilding the Website with AI (in progress)
+
+After this optimization phase, the company decided to rebuild the website from scratch. I am leading this work using Claude Code as a development partner:
+
+- **Rebranding:** new positioning focused on residential remodeling and custom finishes, with a new visual identity.
+- **Local SEO architecture:** dedicated pages per service and per city served, built from real project photos instead of repetitive city-name pages.
+- **Interactive estimate configurator:** visitors describe what they want to transform, step by step, and the request goes to the Notion CRM through an n8n webhook protected by Cloudflare Turnstile.
+- **Migration from Webflow to code:** Astro + GitHub + Cloudflare Pages, with a preview link for every change and nothing published without team approval.
+- **Zero-loss migration plan:** same domain, same URLs, all 21 blog articles preserved, single-hop 301 redirects, DNS and email records copied before the switch, and 4-8 weeks of Search Console monitoring.
+
+The current Webflow site stays live until the new version is reviewed and approved.
 
 ## Skills Demonstrated
 

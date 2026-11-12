@@ -157,7 +157,7 @@ The chatbot was designed to provide:
 
 ## Current Status
 
-The chatbot is active on the Allforliz website and connected to the company's internal lead management workflow.
+The chatbot workflow is still functional, but it is not connected to the website at the moment while the company rebuilds its website.
 
 ## Screenshot
 

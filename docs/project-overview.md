@@ -2,7 +2,7 @@
 
 ## Company Context
 
-Allforliz Painting and Renovations is a residential painting and remodeling company serving Clermont, Orlando and surrounding areas in Central Florida.
+Allforliz is a remodeling and construction company serving Clermont, Orlando and surrounding areas in Central Florida.
 
 The company website is used to present services, publish educational content, attract local customers and collect project requests.
 
